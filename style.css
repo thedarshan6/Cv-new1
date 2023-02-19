@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #E1EEDD;
+}
+
+
+
+div{
+    background-color: #E1EEDD;
+    
+}
+h1{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Gloock', serif;
+}
+p{
+    font-family: 'Gloock', serif;
+    
+    
+}
+.top{
+    padding-top: 100px;
+    position: relative;
+}
+.middle{
+    
+}
+.bottom-container{
+    padding-top: 20px;
+    background-color: #66BFBF;
+    margin-top: 40px;
+}
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+
+.bottm-cloud{
+    position: absolute;
+    left: 150px;
+    
+    
+}
+.h2{
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skillsimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.skillsimg1{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .footer-link{
+    margin-right: 20px;
+  }
+  .endp{
+    color: #EAF6F6;
+  }
+  hr{
+    border-style: dotted none none;
+    border-width: 2px;
+    width: 30%;
+  }
+  h1:hover{
+    color: #ffffff;
+  }
+  h2:hover{
+    color: #ffffff;
+  }
+  .pl{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #66BFBF;
+  }
+  .pl1{
+    margin-bottom: 40px;
+  }
